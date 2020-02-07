@@ -10,7 +10,9 @@ Flutter 30 days
 
 [Blog](https://medium.com/code4idea/flutter-%E8%B5%B7%E6%AD%A5-day-1-tap-counter-d641aa7fae10) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/tap_counter)
 
----
+----
+
+# Image List
 
 ![flutter-image-list](https://github.com/slamdon/flutter-starter/raw/master/resources/flutter-image-list.gif)
 
