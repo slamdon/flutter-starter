@@ -12,6 +12,9 @@ Flutter 30 days
 
 ---
 
-![flutter-image-list](/Users/slamdon/code/Flutter-Starter/resources/flutter-image-list.gif)
+![flutter-image-list](https://github.com/slamdon/flutter-starter/raw/master/resources/flutter-image-list.gif)
 
-Blog / Source Code
+[Blog](https://medium.com/code4idea/flutter-%E8%B5%B7%E6%AD%A5-day-2-image-list-b6e622a8fe61)  / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/image_list)
+
+---------
+
