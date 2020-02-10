@@ -24,15 +24,17 @@ class _MenuState extends State<Menu> {
               decoration: BoxDecoration(color: Colors.blue),
             ),
             ListTile(
-              title: Text(
-                "Dark",
-                style: TextStyle(fontSize: 20),
-              ),
-              onTap: listTapHandler(0),
+              title: Text("Dark", style: TextStyle(fontSize: 20)),
+              onTap: () {
+                listTapHandler(0);
+              },
             ),
             ListTile(
-                title: Text("Light", style: TextStyle(fontSize: 20)),
-                onTap: listTapHandler(1))
+              title: Text("Light", style: TextStyle(fontSize: 20)),
+              onTap: () {
+                listTapHandler(1);
+              },
+            ),
           ],
         ),
       ),
@@ -40,18 +42,20 @@ class _MenuState extends State<Menu> {
   }
 
   listTapHandler(int index) {
-    switch (index) {
-      case 0:
-        {
-          title = "DARK";
-        }
-        break;
-      case 1:
-        {
-          title = "LIGHT";
-        }
-        break;
-    }
-    Navigator.pop(context);
+    setState(() {
+      switch (index) {
+        case 0:
+          {
+            title = "DARK";
+          }
+          break;
+        case 1:
+          {
+            title = "LIGHT";
+          }
+          break;
+      }
+      Navigator.pop(context);
+    });
   }
 }
