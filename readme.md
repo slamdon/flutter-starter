@@ -65,7 +65,7 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 
 # Animation
 
-
+![Animation Examples](https://github.com/slamdon/flutter-starter/raw/master/resources/flutter-animations.gif)
 
 ## Features
 
@@ -73,3 +73,4 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 - draggable card
 - transition
 
+[Blog](https://medium.com/code4idea/flutter-%E8%B5%B7%E6%AD%A5-day-4-%E5%8B%95%E7%95%AB%E6%95%88%E6%9E%9C-1a827ed05baf) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/magician)
