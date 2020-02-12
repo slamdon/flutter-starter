@@ -17,11 +17,6 @@ class _HomePageState extends State<HomePage> {
   final TextEditingController node3Controller = TextEditingController();
   final TextEditingController node4Controller = TextEditingController();
 
-  String node1Value = '';
-  String node2Value = '';
-  String node3Value = '';
-  String node4Value = '';
-
   TextField _generateRoundTextField(
       focusNode, previousFocusNode, nextFocusNode, controller) {
     return TextField(
@@ -29,7 +24,6 @@ class _HomePageState extends State<HomePage> {
             border:
                 OutlineInputBorder(borderRadius: BorderRadius.circular(10))),
         textAlign: TextAlign.center,
-        // autofocus: focusNode == node1,
         textInputAction: TextInputAction.next,
         keyboardType: TextInputType.number,
         controller: controller,
@@ -38,12 +32,15 @@ class _HomePageState extends State<HomePage> {
         ],
         onChanged: (text) {
           if (text.length != 0) {
+            // when input new text, make next TextField get focus
             FocusScope.of(context).requestFocus(nextFocusNode);
           } else {
+            // when remove text from TextField, make previous TextField get focus
             FocusScope.of(context).requestFocus(previousFocusNode);
           }
 
           if (nextFocusNode == null) {
+            // when input the last TextField, hide keyboard
             FocusScope.of(context).unfocus();
           }
         },
