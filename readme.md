@@ -75,3 +75,19 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 
 [Blog](https://medium.com/code4idea/flutter-起步-day-5-動畫效果-8e7db557f0b0) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/magician)
 
+
+
+# SMS Code Example
+
+
+
+## Features
+
+- TextField round border
+- show number keyboard
+- get next TextField focused after input
+- hide keyboard when finished input
+- show AlertDialog with numbers when tap OK button
+- hide keyboard when tap screen ( white color area)
+
+Blog / Source Code
