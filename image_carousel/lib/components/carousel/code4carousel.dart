@@ -47,7 +47,7 @@ class _Code4CarouselState extends State<Code4Carousel> {
     );
   }
 
-    Widget _getIndicator() {
+  Widget _getIndicator() {
     return Code4Indicator(
       dotCount: this.widget.imagePaths.length,
       currentIndex: currentIndex,
