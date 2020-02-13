@@ -61,7 +61,7 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 
 [Blog](https://medium.com/@slamdon/flutter-%E8%B5%B7%E6%AD%A5-day-4-%E5%A4%9C%E9%96%93%E6%A8%A1%E5%BC%8F%E6%92%AD%E6%94%BE%E5%99%A8-4a7fd72ffb61) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/dark_mode)
 
-
+---
 
 # Animation
 
@@ -75,7 +75,7 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 
 [Blog](https://medium.com/code4idea/flutter-起步-day-5-動畫效果-8e7db557f0b0) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/magician)
 
-
+---
 
 # SMS Code Input Example
 
@@ -91,4 +91,20 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 - hide keyboard when tap screen ( white color area)
 
 [Blog](https://medium.com/code4idea/flutter-起步-day-6-輸入簡訊驗證-14a55bfbde15) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/sms_code)
+
+---
+
+# Custom Image Carsouel
+
+![flutter image carsouel](https://github.com/slamdon/flutter-starter/raw/master/resources/flutter-image-carousel.gif)
+
+
+
+## Features
+
+- horizontal swipe images
+- when swipe image, indicator dot change color
+- when tap indicator dot, change PageView's image
+
+[Blog](https://medium.com/code4idea/flutter-起步-day-7-圖片幻燈片-2a6175b34f08) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/image_carousel)
 
