@@ -108,3 +108,18 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 
 [Blog](https://medium.com/code4idea/flutter-起步-day-7-圖片幻燈片-2a6175b34f08) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/image_carousel)
 
+---
+
+# Parllax PageView
+
+
+
+## Features
+
+- horizontal swipe card
+- parllax scrollView
+
+
+
+Blog / Source Code
+
