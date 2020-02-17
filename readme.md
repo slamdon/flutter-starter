@@ -110,9 +110,9 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 
 ---
 
-# Parllax PageView
+# Parallax PageView
 
-
+![Parallax](https://github.com/slamdon/flutter-starter/raw/master/resources/flutter-parallax-pageview.gif)
 
 ## Features
 
@@ -121,5 +121,5 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 
 
 
-Blog / Source Code
+[Blog](https://medium.com/code4idea/flutter-day-8-水平視差滾動效果-parallax-pageview-8e29e860e196) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/parallax_card)
 
