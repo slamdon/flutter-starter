@@ -117,7 +117,7 @@ Flutter 30 days - [Medium]([https://medium.com/code4idea/%E7%B3%BB%E5%88%97-2aa9
 ## Features
 
 - horizontal swipe card
-- parllax scrollView
+- parallax scrollView
 
 
 
