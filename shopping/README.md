@@ -1,16 +1,10 @@
-# shopping
+# Shopping Cart
 
-A new Flutter project.
+![Flutter Shopping Cart](https://github.com/slamdon/flutter-starter/raw/master/resources/Flutter-Shopping-Provider.png)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- pass value through [Provider](https://pub.dev/packages/provider)
+- cart layout
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Blog](https://medium.com/code4idea/flutter-day-9-狀態管理-provider-4c535c27b184) / [Source Code](https://github.com/slamdon/flutter-starter/tree/master/shopping)

@@ -1,16 +1,13 @@
-# image_carousel
+# Custom Image Carsouel
 
-A new Flutter project.
+![flutter image carsouel](https://github.com/slamdon/flutter-starter/raw/master/resources/flutter-image-carousel.gif)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- horizontal swipe images
+- when swipe image, indicator dot change color
+- when tap indicator dot, change PageView's image
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Blog](https://medium.com/code4idea/flutter-起步-day-7-圖片幻燈片-2a6175b34f08) / [Source Code](
